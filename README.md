@@ -1,6 +1,6 @@
-# NodePerceptron
+# PerceptronNode
 
-Imperative implementation of an percepton on node.js
+Imperative implementation of an percepton in node.js
 
 Code based on orhandemirel's Java implementation (avaliable at https://gist.github.com/orhandemirel/666270)
 
